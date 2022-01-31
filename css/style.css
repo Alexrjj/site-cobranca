@@ -57,7 +57,7 @@ header {
     content: "";
     display: block;
     width: 230px;
-    background: url("/img/sinal.svg");
+    background: url("./img/sinal.svg");
     background-size: 20px;
     background-repeat: repeat;
     position: absolute;
@@ -74,7 +74,7 @@ header {
     content: "";
     display: block;
     width: 260px;
-    background: url("/img/sinal.svg");
+    background: url("./img/sinal.svg");
     background-size: 20px;
     background-repeat: repeat;
     position: absolute;
@@ -223,7 +223,7 @@ header {
 }
 
 #diferencial-section {
-    background: url("/img/arvores-parceiros.webp") no-repeat;
+    background: url("./img/arvores-parceiros.webp") no-repeat;
     background-position: 0 100px;
     background-color: #f0f1f2;
     padding: 3rem;
@@ -303,7 +303,7 @@ header {
     content: "";
     display: block;
     width: 140px;
-    background: url("/img/sinal.svg");
+    background: url("./img/sinal.svg");
     background-size: 20px;
     background-repeat: repeat;
     position: absolute;
@@ -320,7 +320,7 @@ header {
     content: "";
     display: block;
     width: 140px;
-    background: url("/img/sinal.svg");
+    background: url("./img/sinal.svg");
     background-size: 20px;
     background-repeat: repeat;
     position: absolute;
@@ -376,5 +376,4 @@ footer h3 {
     gap: 1rem;
     margin: 0;
     padding: 0;
-    color: #71cc98;
 }
